@@ -1,0 +1,113 @@
+body{
+    font-family: Apple Chancery, cursive;
+    font-stretch: ultra-expanded;
+    
+}
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+html{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px; 
+}
+table{
+    color: rgb(13, 115, 128);
+    border-radius: 8px;
+    border: 2px solid blue; 
+    position : relative ; top: -5px;
+    left: 800px;
+}
+.bold{
+    font-weight: bold;
+}
+.w900{
+    font-weight: 900;
+}
+body{
+    background: -webkit-linear-gradient(90deg, #68f091,#8228ea);background: linear-gradient(90deg, #68f091,#8228ea);
+}
+.snegr{
+    background-color:#001e80;
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 15px;
+    display: block;
+}
+.buttontextx{
+    background-color:#d8005a;
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 15px;
+    display: block;
+}
+.buttontext{
+    background-color:#ff00f2;
+    width: 120px;
+    height: 36px;
+    line-height: 36px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 15px ;
+    display: block;
+       
+}
+.buttonda{
+    background-color:#000000;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    margin: 0 10px 5px 0;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.buttonnet{
+    background-color:#000000;
+    width: 75px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    margin: 0 10px 5px 0;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.hui{
+    text-align: center;
+}
+.liniya{
+position : relative ; top: -5px;
+        left: 150px;
+}
